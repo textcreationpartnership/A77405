@@ -1,0 +1,547 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A briefe-answere, to the late-resolves of the Commons assembled in Parliament, concerning ministers, their preaching and praying.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77405</idno>
+            <idno type="STC">Wing B4546</idno>
+            <idno type="STC">Thomason E566_1</idno>
+            <idno type="STC">ESTC R206176</idno>
+            <idno type="EEBO-CITATION">99865351</idno>
+            <idno type="PROQUEST">99865351</idno>
+            <idno type="VID">117591</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77405)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117591)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 87:E566[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A briefe-answere, to the late-resolves of the Commons assembled in Parliament, concerning ministers, their preaching and praying.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed 1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "July 26".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term>Freedom of religion --  England --  Early works to 1800.</term>
+               <term>Clergy --  Legal status, laws, etc. --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117591:1" rendition="simple:additions"/>
+            <pb facs="tcp:117591:1" rendition="simple:additions"/>
+            <p>A BRIEFE-ANSWERE, TO THE LATE-RESOLVES Of the <hi>Commons</hi> Aſſembled in <hi>Parliament,</hi> Concerning <hi>Miniſters,</hi> their <hi>Preaching</hi> and <hi>Praying.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>AMOS. 2.12.14.15.</hi>
+               </bibl>
+               <p>Yee Commanded the <hi>Prophets,</hi> ſaying; <hi>Prophecy not.</hi>
+               </p>
+               <p>Therefore the ſtrong ſhall not ſtrengthen his force, neither ſhall the mighty ſave his Life.</p>
+               <p>Hee that handleth the Bow ſhall not ſtand, neither ſhall hee that rideth the Horſe eſcape.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>AMOS. 3.8.</hi>
+               </bibl>
+               <p>The Lord hath ſpoken who can but <hi>Propheſy?</hi>
+               </p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>2 TIM. 4.2.3.</hi>
+               </bibl>
+               <p>Preach the Word, Improve, Rebuke. For the time will come when they will not ſuffer wholſome Doctrine, but having their eares itching, ſhall after their owne Luſts, get them an heape of Teachers.</p>
+            </q>
+            <p>LONDON, Printed 1649.</p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:117591:2"/>
+            <pb n="1" facs="tcp:117591:2" rendition="simple:additions"/>
+            <head>The Praeface.</head>
+            <p>THOUGH the wildneſſe of th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſe three <hi>Reſolves</hi> (which <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> their own dr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſe do<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſufficiently diſcover the diſtempered humors of the <hi>Reſolvers,</hi> and the diſtracted <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>taines of the Perſon or Perſons that propounded the <hi>Queſtions;</hi> or [to ſpeake: the proper language of the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eaſt <hi>Rev. 13.1.4.</hi>] put them to the <hi>Vo<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi>) be apparent to th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſe inge<g ref="char:EOLhyphen"/>n<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ous Spirits who are able to diſc<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rne or eſtimate the weight of ſound or ſolid Demonſtra<g ref="char:EOLhyphen"/>tions, and ſo might have ſaved me, or any other the labour, to o<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>vate them for <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, and diſ<g ref="char:EOLhyphen"/>cover their Diametricall-Oppoſition i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the <hi>Law</hi> of <hi>God,</hi> and the practiſe of his Servants <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Yet becauſe the iniquity of our degenerated Age, &amp; the Frenzie of the inter<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ed ignorant Vulgar is ſuch, as makes them apt to grant all for <hi>Lawfull</hi> and <hi>Juſt,</hi> which they <hi>Reſolve</hi> and <hi>Publiſh,</hi> becauſe of their preſent Height and Greatneſſe: Therefore I concluded that I was bound in Conſcience to give Teſtimony to the Tr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th [from which <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Authority whatſoever, much leſſe that which is uſurped, ſhould make <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s ſwerve] which encoura<g ref="char:EOLhyphen"/>ged me to undertake the Taske; ſo to un-deceive the deceived; bring into the way of Truth thoſe that have erred or been ſeduced, and ſtay all others from entring thoſe dange<g ref="char:EOLhyphen"/>rous paths, into which by theſe <hi>Reſolves,</hi> they may elſe [in the ſimplicity of their hearts] <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e miſled; which if it effect; I have gained the end of my Deſires, and the Purchaſer of this ſhort Anſwere will be no lo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſer by the Bargaine.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <head>
+               <hi>The</hi> Reſolves <hi>of the</hi> Commons, &amp;c.</head>
+            <p>THOUGH the Face be <hi>Reſolved,</hi> yet the Body is a <hi>Law:</hi> For it conſiſts of thoſe two parts which conſtitute it ſuch; <hi>Precept</hi> and <hi>Penalty.</hi> The <hi>Precept</hi> of it is three fold; the <hi>Penalty</hi> One and the ſame. This Piece labours to enervate the power of the <hi>Precepts,</hi> by diſcovering the groundleſſe foundation of the <hi>Law,</hi> and pro<g ref="char:EOLhyphen"/>ving it invalid, not binding. This performed, I will not, none need to be afraid of their Bug-beare, <hi>Penalty.</hi>
+            </p>
+            <p>
+               <hi>That</hi> Law <hi>is not</hi> binding, <hi>which is not Conſtituted by a lawfull-Authority.</hi>
+            </p>
+            <p>
+               <hi>The Commons (aſſembled in Parliament) alo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e, are no</hi> lawfull-Authority.</p>
+            <p>
+               <hi>Therefore this</hi> Law (<hi>called</hi> Reſolves) <hi>Conſtituted by the Commons (aſſem<g ref="char:EOLhyphen"/>bled in Parliament) alone, is not</hi> binding.</p>
+            <p>That the Houſe of Commons, alone, (though as they are at preſent wee may deny them to be any Houſe at all, but <hi>a</hi>
+               <note n="*" place="margin">
+                  <hi>Ezech.</hi> 2, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> 
+               <hi>Rebellious-Houſe,</hi> is no <hi>law<g ref="char:EOLhyphen"/>full Authority,</hi> may appeare cleerely unto all unbiaſed Judgements, if they take notice of theſe Reaſons.</p>
+            <p>The Commons, alone, are no <hi>Parliament;</hi> and therfore no lawfull <hi>Au<g ref="char:EOLhyphen"/>thority</hi> without the King and Lords.</p>
+            <p>For Firſt, by, and in the very primitive Conſtitution of our <hi>Engliſh Parliaments,</hi> it was moſt unanimouſly agreed by the king<g ref="char:EOLunhyphen"/>doms
+<pb n="2" facs="tcp:117591:3"/>and Peoples generall and uncompelled conſent, that our Parliament ſhould be conſtituted and made up, not of Knights and Burgeſſes only, e<g ref="char:EOLhyphen"/>lected by <hi>Free-holders</hi>
+               <note n="[a]" place="margin">H. <hi>6.</hi> c. <hi>7. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>0.</hi> H. <hi>6.</hi> c. <hi>2.<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi> H. <hi>6. c. 15</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>romp<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>on Ja<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iſdict. p. <hi>1.2. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi> cooke <hi>4.</hi> In<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>t. c. <hi>1.</hi>
+               </note> and <hi>Burgeſſes</hi> (not by the generalite of the vul<g ref="char:EOLhyphen"/>gar People, who doe now claim and uſurpe this right of Election, as theſe <hi>Reſolvers</hi> doe of <hi>Law</hi>-giving) but likewiſe of the King, the<note n="[b]" place="margin">Cooke In<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>it. c. <hi>1.</hi> u. <hi>1. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>dus tenendi Parliamentum</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ompton Ju<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iſdict. of <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ourts Tit. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>arliament. <hi>At.</hi> Seldens <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>it honour par. <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.6.5.</hi>
+               </note> 
+               <hi>Supreme Member</hi> (for by his Writs the Parliament were to bee ſummoned) and of the Lords, Peeres, Barons and great Officers of the Realme; who alſo ought of right, and for the perfect Conſtitution and making up of a Parlia<g ref="char:EOLhyphen"/>ment, to Sit, Vote, make Lawes, and give Judgement. And all our Law-bookes<note n="[c]" place="margin">
+                  <hi>33.</hi> H. <hi>6.6.9.</hi> E. <hi>3.7.</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. Parl. <hi>4.<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi> H. <hi>7.18. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi> H. <hi>7.14.</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>remptons Ju<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſdict. p. <hi>9.</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>udge Huttons <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>gument of <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. Hembdens <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſe p. <hi>32.33.</hi>
+               </note> doe Reſolve, that without this three-fold concurrent aſſent, there is not, neither can there be any binding Law made.</p>
+            <p>Therefore this Law made by the Commons, alone, without the concur<g ref="char:EOLhyphen"/>rent aſſent of the other two Members, is not binding.</p>
+            <p n="2">2. That the Commons, alone, are no Parliament; but that the King and Lords with them, make up a compleat Parliament, is apparent by <hi>Hut<g ref="char:EOLhyphen"/>ton's</hi> Argument of Mr. <hi>Hampden's</hi> Caſe, <hi>pa.</hi> 32. 33. Judge by the practice in all Empires and Kingdomes of the World, as is cleere by theſe Texts of Scripture. 1 <hi>Chro.</hi> 1.2. <hi>Ch.</hi> 28.1.2. <hi>&amp;c. Ch.</hi> 29 6.24. 2 <hi>Ch.</hi> 5.3.5. 2 <hi>Ch.</hi> 23.2.3.20.21. <hi>Ch.</hi> 30.2.3.6.12. <hi>Ch.</hi> 34.29. <hi>Ch.</hi> 25.7.8. <hi>Nehe.</hi> 9.38. <hi>Ch.</hi> 10, 29. <hi>Eſther</hi> 1.13, 22. <hi>Dan.</hi> 3.2.3. 2 <hi>Ch.</hi> 29.30. <hi>Ch.</hi> 32.3. <hi>Ezra.</hi> 9.1. <hi>C.</hi> 10.8. 1 <hi>Sa.</hi> 5.8. <hi>Ch.</hi> 29, 3.10. <hi>Pſa.</hi> 68.27. <hi>Pro.</hi> 8, 15.16. <hi>Iſa.</hi> 19.11.12.13. <hi>J<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r.</hi> 17.25. <hi>Ch.</hi> 26.11.16. <hi>Ch.</hi> 36.12.14. <hi>C.</hi> 37.14.15. <hi>C.</hi> 38.4.25.27. <hi>Dan.</hi> 6.1.6.7. <hi>Jonah</hi> 3.7. <hi>Pſal</hi> 2.2. <hi>Iſa.</hi> 1.23.26.</p>
+            <p>That in all Empires and Kingdomes in the World, their Princes, Nobles, Lords and great Officers of State have been accounted neceſſary for the Conſtituting their compleat Parliaments, and Generall Councells of State is cleere (I ſay) by theſe texts of Scripture, compared together; and by all Hiſtorians and Politicians teſtimonies; and in this Kingdome many hun<g ref="char:EOLhyphen"/>dred yeers before the Conqueſt, as <hi>modus tenendi Parliamentum,</hi>
+               <note n="[d]" place="margin">
+                  <hi>Epoſ.</hi> To his Report. In<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>es on <hi>Lit<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ton.</hi> p. 110. <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Inſtud<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>es. c.</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> Sir <hi>Ed. Cooke,</hi> and<note n="[e]" place="margin">Mr. <hi>Seldens</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>cles of honor <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er 2 c 5. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ere this is a<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ndantly ma<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>feſted. <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>el<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>anni Con<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>om.</hi> 1.<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ruth trium <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ng over falſ <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd, Antiqui<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> over Novel<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> p. 36 &amp;c. <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e Free-hol<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>rs grand In<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>eſt. P. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 20.</note> others write, and our Hiſtorians Record. Therfore whatſoever the one doe, without the aſſent of the other two, is not bin<g ref="char:EOLhyphen"/>ding; becauſe, without the Preſence of all three, one alone is not a com<g ref="char:EOLhyphen"/>pleat Parliament, neither is the Authority of one alone Lawfull, This <hi>Law</hi> then, made by the Commons, alone, is not <hi>Binding.</hi>
+            </p>
+            <p n="3">3. The Commons, alone, are no Parliament, and therefore no lawfull Authority, without the King and Lords; becauſe they cannot prove them<g ref="char:EOLhyphen"/>ſelves to be a Parliament, alone, and ſo to have lawfull Authority to im<g ref="char:EOLhyphen"/>poſe <hi>binding-Lawes,</hi> by any Law of God, either in the old or new Teſta<g ref="char:EOLhyphen"/>ment, for they both contradict it. By no Law or Statute of this Kingdom or Nation, which abſolutely diſclaim it, and enact the contrary. By no Pr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſcription, Cuſtome or Uſage; which are all againſt it: No, nor by the originall Law of Nature: For the Law of Nature (as<note n="f]" place="margin">
+                  <hi>Ariſto<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. pol.</hi> l. 1. <hi>Bodin<g ref="char:punc">▪</g> de Rep. l</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. c 2.3.4.5. Dr. <hi>Field</hi> of the Church, l. 1 c. 1.2.</note> Bolititi<g ref="char:EOLhyphen"/>ans
+<pb n="3" facs="tcp:117591:3"/>an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Divines aſſert, and the Scripture manifeſts) gives every Father a Magiſteriall and Legiſlative power over his Children, Progeny, Family; now the Steward cannot have any lawfull Authority, without him, to im<g ref="char:EOLhyphen"/>poſe Lawes on the reſt of the Family, without his conſent, as is generally acknowledged. Therefore the Commons (being but the Stewards of this great Family of <hi>England,</hi> of which the King is the Father: Hee that hath but common ſenſe will conclude) can be no Parliament, alone, without him; nor can they have any lawfull Authority to impoſe any binding-Law upon the reſt of the Family, that is, the reſt of their fellow Subjects with<g ref="char:EOLhyphen"/>out his aſſent.</p>
+            <p>This <hi>Law</hi> then of the Commons, alone, is not <hi>Binding.</hi>
+            </p>
+            <p n="4">4 That the Commons, alone, are no Parliament, and therefore no law<g ref="char:EOLhyphen"/>full-Authority; but that the King and Lords are requiſite to make up a compleat Parliament, is confirmed by Preſcription and Cuſtome, from the very firſt beginning of Parliaments in this Kingdome, till this preſent, there being no one preſident to bee found in Hiſtory, or Record of any Parliament held in this Iſland without a King Perſonally preſent (or repre<g ref="char:EOLhyphen"/>ſentatively by a Protector, <hi>Cuſtos Regni</hi> or Commiſſioners) and Lords or Peeres: as <hi>Ingulph, Beda, Hecter Boetius,</hi> and <hi>Speed</hi> among our Hi<g ref="char:EOLhyphen"/>ſtorians; <hi>Anti<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>uitates Eccleſiae Britanicae, Spelmanni Concilia Tom.</hi> 1. Sir <hi>Edward Cooke</hi> in his Preface to the 9. Report, and <hi>Inſtitut.</hi> 4. <hi>c.</hi> 1. Mr. <hi>Seldens</hi> titles of honuours, part 2. <hi>c.</hi> 5. Truth triumphing over Falſ<g ref="char:EOLhyphen"/>hood, Antiquity over Noveltie, <hi>p.</hi> 56.90. and Mr <hi>Lambert</hi> in his <hi>Ar<g ref="char:EOLhyphen"/>ohaion,</hi> doe all beare witneſſe.</p>
+            <p>Six<note n="(g)" place="margin">
+                  <hi>Com.</hi> of <hi>England. <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>.</hi> 61</note> 
+               <hi>Thomas Smith,</hi>
+               <note n="(h)" place="margin">
+                  <hi>Ho<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>ſhed Vol.</hi> 1. c 6. p. 173.</note> 
+               <hi>Ralph Hollinſhed,</hi>
+               <note n="(i)" place="margin">
+                  <hi>Cambden B<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ta.</hi> p. 177.</note> Mr. <hi>Cambden; Powel</hi> in his <hi>Attorneys Academy,</hi> and divers others unanimouſly conclude: That the Parliament conſiſts of the King, Lords, and Cominons; which three repreſent the Body of all <hi>England,</hi> which make but one Aſſembly or Court called the Parliament; and is of all other, the higheſt and greateſt Autho<g ref="char:EOLhyphen"/>rity, and hath the moſt high and abſolute power of the Realme. Mr. <hi>Crompton</hi> in his <hi>Juriſdicton of Cou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ts, fol.</hi> 1. affirms; That it neither is nor can bee any Parliament without the King and Lords. This Court (ſaith he) is the higheſt Court of <hi>England,</hi> which the King, Lords and Commons doe all joyntly make up: and then <hi>Reſolves</hi> againſt theſe deſperate <hi>Re<g ref="char:EOLhyphen"/>ſolvers;</hi> That no <hi>Law</hi> can bee made to <hi>binde</hi> the Subjects without all their concurrent Aſſent.</p>
+            <p>The Commons alone therefore, are no Parliament; and conſequently have no Lawfull Authority: This <hi>Law</hi> then of the preſent <hi>Commons,</hi> is not <hi>binding.</hi> Thus have wee proved by the knowne Lawes of the Land; That the Commons alone have no Lawfull Authority, to Conſtitute any <hi>Law;</hi> and that therefore, this <hi>Law</hi> is not <hi>binding.</hi>
+            </p>
+            <p>This promiſed; Next (becauſe it concernes Miniſters) let us ſee, whether
+<pb n="2" facs="tcp:117591:4"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="3" facs="tcp:117591:4" rendition="simple:additions"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="4" facs="tcp:117591:5"/>it bee <hi>binding</hi> by the <hi>Law</hi> of God, or according to the <hi>Rule</hi> of his Word.</p>
+            <p>That <hi>Law</hi> which doth Command any thing which the Word of God doth Forbid; or Forbid any thing which the Word of God doth Com<g ref="char:EOLhyphen"/>mand, is not <hi>binding:</hi> But this Law doth both Command that which is Forbiden, and Forbid that which is Commanded in the Word of God: Therefore this <hi>Law</hi> doth not <hi>bind.</hi>
+            </p>
+            <p>That this <hi>Law,</hi> termed the <hi>Reſolves,</hi> doth Forbid that which is Com<g ref="char:EOLhyphen"/>manded in the Word of God, and Command that which is Forbidden. Thus I Prove.</p>
+            <p>The firſt <hi>Precept</hi> is this. <hi>If any Miniſter</hi> [that is no Miniſter] <hi>ſhall &amp;c.</hi> This <hi>Precept</hi> Forbids Miniſters to Preach or Pray againſt their Proceedings. Now the Miniſters Conſciences are fully ſatisfied; that ſome of their Pro<g ref="char:EOLhyphen"/>ceedings [they being as is proved, no Lawfull Authority] are againſt the <hi>Law</hi> of the Land, and conſequently againſt the <hi>Law</hi> of God [for the knowne <hi>Lawes</hi> of this Land, are all grounded upon the <hi>Law</hi> of God:] As the cutting off the late King's Head, the aboliſhing Monarchy and erecting a populer Government of themſelves and creatures; with divers other in<g ref="char:EOLhyphen"/>fringements of the <hi>Fundamentall Lawes</hi> of this Kingdome, juſt rights of the Crowne, and Liberty and Propriety of the Subjects; thoſe ſeverall Orders, and Ordinances, Proteſtations, Covenants and Oathes which they have firſt thruſt upon and forſt the People unto, and then not only broken them themſelves, but alſo compelled or corrupted others to commit the ſame impiety, for which the Land mournes; yea all their courſes is evill, and their foote is not right;<note n="*" place="margin">
+                  <hi>Jer</hi> 23.10.</note> and therefore to bee both Prayed and Preached againſt by the Miniſters, or diſpenſers of the Word of God, which Commands them ſo to doe.<note n="*" place="margin">
+                  <hi>Ezech.</hi> 33.7.8. <hi>Iſai.</hi> 18 1.2. <hi>Ezeck.</hi> 2.3.4 <hi>&amp;c.</hi> 2. <hi>Tim.</hi> 4.2.</note>
+            </p>
+            <p>And Gods Word doth Command this; becauſe God would have it knowne; that, though the Power of Law-makers were unqueſtionable (which of theſe <hi>Reſolvers</hi> is not;) yet, that the conſideration and de<g ref="char:EOLhyphen"/>termination, whether ſuch <hi>Lawes</hi> as they preſcribe, bee agreeable to or againſt Gods <hi>Law,</hi> belongs to the Miniſter, as is evident.<note n="*" place="margin">
+                  <hi>Deut.</hi> 17.8.9.10.</note> 
+               <hi>If there ariſe a matter too hard for thee in Judgment &amp;c. And thou ſhalt come unto the Prieſts of the Levites, and unto the Judge</hi>
+               <note n="*" place="margin">who ſhall give Sentence <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the Prieſts ſhall Counſell him by the law of God.</note> 
+               <hi>that ſhall bee in thoſe daies and aske, and they ſhall ſhew thee the ſentence of Judgement. And thou ſhalt doe according to all that they informe thee. According to the Law which they ſhall teach thee &amp;c.</hi> Compare their <hi>Reſolves</hi> with this part of Scripture, and tell me whe<g ref="char:EOLhyphen"/>ther they doe not in the firſt <hi>Precept</hi> Forbid that which this Commands.</p>
+            <p>So likewiſe in the Prophet <hi>Malachy,</hi> the word of God ſaith thus, <hi>And ye ſhall know that I have ſent this Commandement unto you,</hi>
+               <note place="margin">
+                  <hi>Mal<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi> 1.4.8</note> 
+               <hi>That my Cove<g ref="char:EOLhyphen"/>nant which I made with</hi> Levi <hi>might ſtand, to put the Law of Truth in his Mouth, That his Lips ſhould preſerve Knowledg, and that the People ſhould ſeeke the Law at his Mouth; for he is the meſſenger of the Lord of</hi>
+               <note n="*" place="margin">
+                  <hi>Iſai.</hi> 58.1.2</note> 
+               <hi>Hoſt,
+<pb n="5" facs="tcp:117591:5"/>Theſe Lips,</hi> God's word commands them to open; and to <hi>ſpeake</hi> with this <hi>Mouth.</hi> That <hi>Law</hi> then, which Forbids <hi>theſe lips</hi> to open, and this <hi>Mouth</hi> to ſpeake; doth Forbid that which the Word of God Commande.</p>
+            <p>But this firſt <hi>Precept,</hi> doth ſeale up the one and ſtop the other, <hi>Silenceing the Miniſters.</hi> [a Crime ſo inexpiable in the <hi>Biſhops.</hi>]</p>
+            <p>Therefore this <hi>Law,</hi> in reſpect of this firſt <hi>Precept,</hi> is not <hi>binding.</hi>
+            </p>
+            <p>Which I ſhall prove not <hi>binding</hi> alſo, in reſpect of their ſecond <hi>Precept;</hi> for, that both forbid, that which St. <hi>Paul</hi> commands,<note n="*" place="margin">1. <hi>Tim.</hi> 2.<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.2.</note> and commands in theſe words <hi>[otherwiſe then as the Enemies to this Common-Wealth]</hi> that which God himſelfe forbids.<note n="*" place="margin">
+                  <hi>Exod</hi> 21.28. <hi>&amp; Eccleſ.</hi> 10.20.</note>
+            </p>
+            <p>Therefore this <hi>Law,</hi> in reſpect of this ſecond <hi>Precept,</hi> alſo is not <hi>binding.</hi>
+            </p>
+            <p>Now to prove that it is not <hi>binding,</hi> in reſpect of the laſt; I deſire you to read;<note n="*" place="margin">Iſaiah <hi>58.</hi> &amp; Zechariah <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi>
+               </note> and compare them with their proceedings, and daies of <hi>Pub<g ref="char:EOLhyphen"/>lique Humiliation,</hi> or <hi>Faſts.</hi> Now God expreſſly forbids the keeping, or obſerving ſuch a <hi>Faſt.</hi>
+               <note n="*" place="margin">
+                  <hi>Iſai.</hi> 58.4.5.</note> But this third <hi>Precept</hi> commands the keeping and obſerving their <hi>Faſts</hi> though it bee apparent they are the ſame. Judge therefore, whether this <hi>Law</hi> bee <hi>binding</hi> or no, in reſpect of this third and laſt <hi>Precept.</hi>
+            </p>
+            <p>The Angell of God commanded<note n="*" place="margin">
+                  <hi>Acts</hi> 5.20.</note> the Apoſtles to Preach; which they did.<note n="*" place="margin">
+                  <hi>verſ.</hi> 21.</note> The Councell and the Elders of <hi>Iſrael</hi> ſent a Captaine with Officers, who apprehended them and ſet them before the Councell.<note n="*" place="margin">
+                  <hi>verſ.</hi> 26. <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.</note> They by their Speaker ſaid: <hi>Did not wee ſtraightly command you, that yee ſhould not Teach in this Name: and yet behold yee have filled</hi> Jeruſalem <hi>with your Doctrine; and yea would bring this man's blood upon</hi>
+               <note n="*" place="margin">
+                  <hi>verſ.</hi> 2<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> 
+               <hi>us.</hi>
+            </p>
+            <p>Here were Reſolves, of a grand Councell, forbidding that which God had Commanded; Therefore the Apoſtles look't upon their commands as not <hi>binding</hi> [though a Lawfull Authority:] And therefore returne this ſhort Anſwer; <hi>Wee ought rather to obey God then</hi>
+               <note n="*" place="margin">
+                  <hi>verſ.</hi> 29.</note> 
+               <hi>Man.</hi>
+            </p>
+            <p>That Primitive-Chriſtian-Perſecuting-Councell, hath our Orthodox-Proteſtant-Tormenting houſe of <hi>Commons</hi> imitated in their proceedings with the Miniſters of this Age; Therefore their anſwer to theſe their <hi>Re<g ref="char:EOLhyphen"/>ſolves,</hi> may bee the ſame with theirs; <hi>Wee ought to obey God rather then Men;</hi> though they ſhould with that Councell, a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the hearing thereof, <hi>burſt with anger</hi> and <hi>Conſult to ſlay</hi>
+               <note n="*" place="margin">
+                  <hi>verſ.</hi> 53.</note> 
+               <hi>them.</hi>
+            </p>
+            <p>I ſhould in Charity adviſe them to take <hi>Gamaliels</hi> Councell in that Chapter;<note n="*" place="margin">
+                  <hi>Act.</hi> 5.</note> of which I make this tranſition.</p>
+            <p>
+               <hi>Yee men of</hi> England, <hi>who call your ſelves</hi> the Commons Aſſembled in Parliament, <hi>take heede to your ſelves what yee intend to doe touching theſe men,</hi> the Miniſters of Gods<note n="*" place="margin">verſ. 35.</note> word. <hi>Refraine your ſelves from them and let them alone, leaſt you bee found fighters againſt God.</hi>
+               <note place="margin">verſ. 39.</note> 
+               <hi>For though you ſhould beate them, and command their ſilence; yet you ſhall find, that they will depart from your Councell, rejoycing that they are counted worthy to ſuffer from</hi> you,
+<pb n="6" facs="tcp:117591:6"/>
+               <hi>for declaring their Conſciences; yea mauger all your proud threats, they will preach daily in the Temple,</hi>
+               <note n="[*]" place="margin">
+                  <hi>Pſal.</hi> 141.6.</note> 
+               <hi>without ceaſing, againſt your ungodly procedings and in oppoſition to your</hi> Reſolver <hi>putting on the Reſolution of holy</hi> David, <hi>pray againſt your wicked and Rebellious practizes. Nay <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> by God himſelfe in the perſon of</hi> Ezechiel <hi>they will not feare you, nor be afraid of <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>ugh Rebells and Thrones</hi>
+               <note n="[*]" place="margin">Ezek. 2.<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.6.</note> 
+               <hi>be among them, and they remaine with Scorpions: They will not feare your words, nor bee afaid of your lookes for they know you are a</hi> Rebellious Houſe <hi>and you ſhall know there hath beene</hi> Prophets <hi>amongſt you.</hi>
+            </p>
+            <p>But whatſoever the Miniſters ſay: as for theſe deſperate <hi>Reſolvers,</hi> wee may truely ſay of them what God ſaid there of that <hi>ſtiffe hearted</hi> and <hi>Rebellious Nation: Surely they will not heare,</hi>
+               <note place="margin">Ezek. 2.5.</note> 
+               <hi>neither indeed will they ceaſe for they are a Rebellious Houſe;</hi> which appeares by theſe their Anti-<hi>Mona<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>chy Reſolves.</hi>
+            </p>
+            <p>In all ages it hath beene the treaſonable and deſtructive deſigne of thoſe who by po<g ref="char:EOLhyphen"/>pular inſinuation, tre<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cherous Policy, bloody practizes, or powerfull Ambition, have poſt<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſled themſelves of anothers Right, to cut off all meanes and hinder all diſcourſe by which their unjuſt uſurpation may be detected, or it may bee knowne whoſe the Right of ſucceſſion is.</p>
+            <p>Thus <hi>Jer<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>am</hi> having by Rebellion got the Kingdome of <hi>Iſraell</hi> into his poſſeſſion by an irreligious policy prevents their returne to their former allegiance, and ſubjection to their lawfull<note n="*" place="margin">1 <hi>Kings.</hi> 1.172 28.</note> King.</p>
+            <p>Thus alſo <hi>Athaliah</hi>
+               <note n="[*]" place="margin">2 <hi>Kings</hi> 11. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> after the Death of the King, having got poſſeſſion of th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Throne, to confirme that her uſurped raigne, ſhee deſtroyes as many of the ſeed Roy<g ref="char:EOLhyphen"/>all as ſhee could get into her power, that ſo the Kingdome might not returne to any of them, to whom did pertaine the Right of Succeſſion. And a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ther her <note place="margin">v. 4.</note> 7 yeares is uſurped Reigne, when the H<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lie of the ſlaine King was by <hi>Jehoiada</hi> crowned and proclaimed <note place="margin">v. 11.</note> King, ſhee cries out Treaſon, Treaſon<note n="[*]" place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Kings</hi> 11.14.</note>: As it becauſe by ſhedding Royall blood ſhee had got the power into her hand, it muſt therefore be treaſon in all that did promote the Title and Intereſt of the Heire apparent.</p>
+            <p>No doubt ſhe had made ſuch a <hi>Law,</hi> as our preſent bloody uſurpers have to ſecure her owne Eſtabliſhed Government and prevent the Suceſſion of the Rightfull King. (The treaſonable deſigne of theſe King murthering <hi>Reſolvers.</hi>)</p>
+            <p>But <hi>Jehoiada</hi> the <hi>Preiſt</hi> or Miniſter, notwithſtanding that command publiſhed by her owne Authority, (knowing her Government had it's foundation in blood [as th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Eſtabliſhed by our <hi>Reſolvers</hi> alſo hath] and that ſuch command did oppoſe the com<g ref="char:EOLhyphen"/>mand of the word of God), promotes the Ti<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tle and Intereſt of the ſlaine Kings <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, takes an oath of Allegiance to him,<note place="margin">v. 4.</note> and ſets a guard about him for his <note place="margin">v. 9.</note> ſecurity.</p>
+            <p>By which le<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> apparent that the forbidding Miniſters to make mention of the ſon<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of our late murdered King, and the promoving his Title and Intereſt [although declared againſt and taken away by their Authority] doth not <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ind;</hi> and therefore I will not feare to diſobey it.</p>
+            <p>Nay further ſince I read that, after <hi>Jehoiada</hi> by the aid of his loyall ſubjects had made him King, crownd him and given him the Teſtimomy, both hee and they <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> their hands for joy and prai'd <hi>GOD SAVE THE KING;</hi> I will not feare for all their ſecond <hi>Reſolve,</hi> to pray for the ſame ſucceſſe of our King<g ref="char:punc">▪</g> Not doubting <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> that God will ſhortly ſend us ſuch a joyfull time alſo where, in the Church and ſtreets, wee may openly ſay. <hi>God ſave</hi> CHARLES <hi>the ſecond Of England &amp;c. King, Defen<g ref="char:EOLhyphen"/>der of the Faith &amp;c.</hi>
+            </p>
+            <closer>
+               <hi>Vivet, Vincat, floreat</hi> CAROLUS <hi>Secundus.</hi>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
